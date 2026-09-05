@@ -82,22 +82,6 @@ The complete workflow is contained in:
 
 **Technology stack:** Python · OpenCV · NumPy · Matplotlib · scikit-image · Jupyter
 
-## Repository Structure
-
-```text
-pyramidal-optical-flow-motion-analysis/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-├── notebooks/
-│   └── pyramidal_optical_flow_motion_analysis.ipynb
-├── data/
-│   └── README.md
-└── figures/
-    └── .gitkeep
-```
-
 ## Reproducibility
 
 ```bash
