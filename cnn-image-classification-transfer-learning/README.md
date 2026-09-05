@@ -85,22 +85,6 @@ The complete workflow is contained in:
 
 **Technology stack:** Python · TensorFlow · Keras · NumPy · Matplotlib · scikit-learn · Jupyter
 
-## Repository Structure
-
-```text
-cnn-image-classification-transfer-learning/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-├── notebooks/
-│   └── cnn_image_classification_transfer_learning.ipynb
-├── data/
-│   └── README.md
-└── figures/
-    └── .gitkeep
-```
-
 ## Reproducibility
 
 ```bash
