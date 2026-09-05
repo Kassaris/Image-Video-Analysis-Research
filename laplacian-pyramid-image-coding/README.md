@@ -84,20 +84,6 @@ The complete workflow is contained in:
 
 ## Repository Structure
 
-```text
-laplacian-pyramid-image-coding/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-├── notebooks/
-│   └── laplacian_pyramid_image_coding.ipynb
-├── data/
-│   └── README.md
-└── figures/
-    └── .gitkeep
-```
-
 ## Reproducibility
 
 ```bash
